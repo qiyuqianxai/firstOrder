@@ -1,0 +1,3 @@
+python demo.py  --config config/vox-adv-256.yaml --driving_video zhiming.mp4 --source_image trump.jpg --checkpoint checkpoint/vox-adv-cpk.pth.tar --relative --adapt_scale
+driving_video 驱动视频
+source_image 原图
